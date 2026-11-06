@@ -23,7 +23,7 @@ Repositorio oficial del **Proyecto Integrador Anual (P.I.A.)** para la asignatur
 | **Mattia, Federico** | Gestión de Repositorio Dual-Remote (GitHub / GitLab) | — |
 | **Orué, Máximo** | Control de Calidad y Traza de Memoria | — |
 
-### 👨‍🏫 Cuerpo Docente / Revisores
+### 👨‍🏫 Docentes 
 * **Prof. Mansilla Muñoz, York Elías** ([@webappdeved](https://github.com/webappdeved))
 * **Prof. Ganduglia, Yamil De Jesus** ([@yamilganduglia-gh](https://github.com/yamilganduglia-gh))
 
@@ -73,7 +73,7 @@ g++ -std=c++17 src/main.cpp -Iinclude -o bin/tmc_app
 
 ---
 
-## 📜 Licencia
+##  Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
 
