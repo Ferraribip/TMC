@@ -1,0 +1,112 @@
+# =========================================================================
+# GITIGNORE OFICIAL - PROYECTO TEKNICAL MAY CRY (TmC)
+# E.E.S.T. N.º 1 "Eduardo Ader" - Laboratorio de Programación (LPR)
+# =========================================================================
+
+# -------------------------------------------------------------------------
+# 1. ARCHIVOS TEMPORALES Y COMPILACIÓN EN UNITY
+# -------------------------------------------------------------------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Archivos de soluciones creadas por Unity para IDEs
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.idb
+
+# Reportes de crash y builds de Unity
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Assets exportados/caché de Unity Asset Store
+/[Aa]ssets/AssetStoreTools*
+
+# -------------------------------------------------------------------------
+# 2. COMPILACIÓN C / C++ (PRUEBAS Y BACKEND)
+# -------------------------------------------------------------------------
+# Archivos objeto y bibliotecas
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# Ejecutables generados
+*.exe
+*.out
+*.app
+
+# Database de IntelliSense y base de datos de exploración
+*.ncb
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+*.ipch
+
+# -------------------------------------------------------------------------
+# 3. ENTORNO DE DESARROLLO (VS CODE & VISUAL STUDIO)
+# -------------------------------------------------------------------------
+# Configuración local de VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Archivos temporales de Visual Studio
+.vs/
+
+# -------------------------------------------------------------------------
+# 4. SISTEMA OPERATIVO Y ARCHIVOS LOCALES
+# -------------------------------------------------------------------------
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Trashes
+
+# Linux
+*~
+.directory
+
+# -------------------------------------------------------------------------
+# 5. SEGURIDAD Y CONFIGURACIONES SENSIBLES
+# -------------------------------------------------------------------------
+# Variables de entorno y credenciales de BD (ej: conexión MySQL local)
+.env
+.env.local
+.env.production
+*.pem
+*.key
