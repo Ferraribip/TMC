@@ -19,9 +19,9 @@ Repositorio oficial del **Proyecto Integrador Anual (P.I.A.)** para la asignatur
 | Estudiante | Rol Principal | GitHub User |
 | :--- | :--- | :--- |
 | **Ferrari, Ulises** | Líder de Proyecto, Investigación y Formato APA v7 | [@Ferraribip](https://github.com/Ferraribip) |
-| **Del Pino, Lucas** | Programación Backend y Pruebas C++ | — |
-| **Mattia, Federico** | Gestión de Repositorio Dual-Remote (GitHub / GitLab) | — |
-| **Orué, Máximo** | Control de Calidad y Traza de Memoria | — |
+| **Del Pino, Lucas** | Programación Backend y Pruebas C++ | [@pin0l33](https://github.com/Pin0l33) |
+| **Mattia, Federico** | Gestión de Repositorio Dual-Remote (GitHub / GitLab) | [@mattia4567](https://github.com/mattia4567) |
+| **Orué, Máximo** | Control de Calidad y Traza de Memoria | [@maximoorue30-tech](https://github.com/maximoorue30-tech) |
 
 ### 👨‍🏫 Docentes 
 * **Prof. Mansilla Muñoz, York Elías** ([@webappdeved](https://github.com/webappdeved))
